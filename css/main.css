@@ -1,0 +1,19 @@
+.top-menu {
+	float: right;
+}
+
+sup {
+	font-size: .5em;
+}
+
+header {
+	border: 1px solid bottom;
+}
+
+.social {
+	margin-bottom: 20px;
+}
+
+.top-menu {
+	margin-bottom: 30px;
+}
